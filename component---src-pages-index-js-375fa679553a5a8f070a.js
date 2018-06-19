@@ -1,0 +1,2 @@
+webpackJsonp([35783957827783],{201:function(e,t,l){"use strict";function a(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var u=l(2),n=a(u),r=l(34),d=a(r),f=function(){return n.default.createElement("div",null,n.default.createElement("h1",null,"tweetcarts"),n.default.createElement(d.default,{to:"/tweetcart1/"},"Highway to hell"),n.default.createElement(d.default,{to:"/post1/"},"Test Markdown"))};t.default=f,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-index-js-375fa679553a5a8f070a.js.map
